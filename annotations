@@ -1,0 +1,4 @@
+npm i @mui/x-data-grid @mui/material @emotion/react @emotion/styled 
+npm i lucide-react numeral recharts uuid axios
+npm i -D @types/node @type/uuid @types/numeral
+npm i -D tw-colors
